@@ -4,7 +4,7 @@ This project is a live sentiment classifier of tweets about the Brazilian realit
 
 # The classifier
 
-You can check and test our tweet sentiment classifier in Google Colab notebook: https://colab.research.google.com/github/elisasmenendez/ds-tweet-sentiment/blob/master/classifier/pt_tweets_classifier.ipynb
+You can check and test our tweet sentiment classifier in this Google Colab notebook: https://colab.research.google.com/github/elisasmenendez/ds-tweet-sentiment/blob/master/classifier/pt_tweets_classifier.ipynb
 
 # The app
 
